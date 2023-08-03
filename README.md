@@ -1,0 +1,2 @@
+# OpenCalc
+terminal-based calculator
