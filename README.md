@@ -3,6 +3,7 @@
         <img src="https://img.shields.io/badge/license-GPLv3-green"/></a>
       <a href="https://github.com/ToujoursTitou2/OpenCalc/wiki" alt="Wiki">
          <img src="https://img.shields.io/badge/Wiki-3.3-blue"/></a>
+      <h1>OpenCalc</h1>
 </p>
 
 
